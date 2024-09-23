@@ -1,0 +1,18 @@
+{
+  "name": "major-project",
+  "version": "1.0.0",
+  "description": "This is my airbnb website. using full stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "module": "express",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2"
+  }
+}
