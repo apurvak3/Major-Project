@@ -80,4 +80,4 @@ const sampleListing =[
         country: "USA"
     }
 ]
-module.exports = {data:sampleListing};
+module.exports = { data: sampleListings };
