@@ -1,3 +1,52 @@
-body{
+body {
     background-color: pink;
+}
+
+.navbar {
+    height: 5rem;
+    color: white;
+}
+
+.fa-compass {
+    color: brown;
+    font-size: 2rem;
+}
+
+.nav-link {
+    color: #222222 !important;
+}
+
+.f-info {
+    text-align: center;
+    height: auto;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.f-info-socials {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.f-info-socials i {
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.f-info-links {
+    margin-top: 1rem;
+}
+
+.f-info-links a {
+    text-decoration: none;
+    color: #222222;
+    margin: 0 0.5rem;
+}
+
+.f-info-links a:hover {
+    text-decoration: underline;
 }
